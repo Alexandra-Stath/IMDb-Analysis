@@ -5,9 +5,9 @@ This project focuses on analyzing movie reviews data from IMDb, utilizing variou
 ## Project Structure
 
 - **📁 Data/**: Contains the dataset used for analysis.
-- **📓 Jupyter Notebooks/**: Includes notebooks for data cleaning, preprocessing, and mining tasks.
-- **📄 PRESENTATION/**: Project presentation materials.
-- **📄 REPORT/**: Detailed project report and findings.
+- **📓 Jupyter Notebook/**: Includes notebooks for data cleaning, preprocessing, and mining tasks.
+- **📄 Presentation/**: Project presentation materials.
+- **📄 Report/**: Detailed project report and findings.
 
 ## Key Features
 - **Data Extraction and Cleaning**: Performed using Jupyter Notebooks.
